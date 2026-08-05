@@ -63,4 +63,3 @@ project-management-system/
 └── README.md
 
 
-Software Engineering Student and MERN Stack Developer with an interest in building modern, responsive, and user-focused web applications.
